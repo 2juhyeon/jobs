@@ -23,16 +23,19 @@
      - (Piyush M. Tagade et al., npj Computational Materials volume 5, Article number: 127 (2019))
 
 ## 2. methodology
-  - how method we uses?
+  - what kind of method we uses? (studing in papers)
+  - what property is given us good prediction? (studing in papers)
+  - what property we prediction? (band gap)
 
 ## 3. environment
   - environment settings
 
   1. linux setting(ubuntu)
   2. miniconda(linux system)
-  3. tensorflow, pytorch, scikit-learn,  
-  4. data set generation 
-
-
+  3. tensorflow, pytorch, scikit-learn, rapids etc  
+  
+## 4. data sets
+  1. materials projects
+  2. hand made
 
 
