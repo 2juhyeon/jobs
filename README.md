@@ -28,7 +28,7 @@
   - what property we prediction? (band gap)
 
 ## 3. environment
-  - environment settings
+- environment settings
 
   1. linux setting(ubuntu)
   2. miniconda(linux system)
