@@ -33,13 +33,18 @@
   1. linux setting(ubuntu)
   2. miniconda(linux system)
   3. tensorflow
-    --  
+    - 
+      -  
   4. pytorch
-    -- 
+    - 
+      - 
   5. scikit-learn
-    -- https://scikit-learn.org/stable/auto_examples/index.html 
+    - 
+      - 
+    - https://scikit-learn.org/stable/auto_examples/index.html 
+      - 
   6. rapids
-    -- 
+    - 
 ## 4. data sets
   1. materials projects
   2. hand made
