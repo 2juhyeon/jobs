@@ -6,8 +6,11 @@
 ![2 capstone](https://user-images.githubusercontent.com/64780986/167266162-dc59d176-a8c7-467e-906c-3bef145db682.PNG)
 ![3 capstone](https://user-images.githubusercontent.com/64780986/167266170-a8644912-ed00-48b4-b341-fe994a5788e5.PNG)
 
-compare many materials property, then we choose goal. that is **band gap**!
+compare many material's properties, then we choose a goal. that is **band gap**!
 
+## band gap
+  - the bandgap is the most important thing in today's materials.
+  - this property is coming from the quantum mechanical phenomena. 
 
 ## 1. papers
   - paper collection (relate to machine learning)
