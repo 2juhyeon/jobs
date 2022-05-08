@@ -27,7 +27,7 @@ compare many material's properties, then we choose a goal. that is **band gap**!
   - what property is given us good prediction? (studing in papers)
 
   - PRML (https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-  - reads1 (https://drive.google.com/file/d/1lXojqQvWlVCe7XNIGNyNvBDENSeyeB3P/view)
+  - reads1 (http://events.kias.re.kr/h/physAI/)
 
 ## 3. environment
   - env settings (linux, conda, etc..)
