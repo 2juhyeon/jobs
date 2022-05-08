@@ -10,8 +10,13 @@ compare many material's properties, then we choose a goal. that is **band gap**!
 
 ## band gap
   - the bandgap is the most important thing in today's materials.
-  - this property is coming from the quantum mechanical phenomena. 
-
+  - this property is coming from the quantum mechanical phenomena.
+### how can estimate?
+  - using DFT calculation
+    - Hybrid functional, GW like calculation gives a good Band Gap but this cost(time, CPU usage, etc..) is very expensive.
+  - using machine learning?
+    - if using machine learning is given good prediction, we can reduce costs.
+    
 ## 1. papers
   - paper collection (relate to machine learning)
   - https://github.com/2juhyeon/jobs/blob/main/papers.md
