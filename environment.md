@@ -15,7 +15,7 @@
       - https://scikit-learn.org/stable/auto_examples/index.html 
        
   6. rapids 
-      - conda create -n rapids-22.04 -c rapidsai -c nvidia -c conda-forge \
+      - conda create -n rapids-22.04 -c rapidsai -c nvidia -c conda-forge \\
         rapids=22.04 python=3.8 cudatoolkit=11.5 dask-sql
       - https://docs.rapids.ai/start
       
