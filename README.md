@@ -21,14 +21,18 @@ compare many material's properties, then we choose a goal. that is **band gap**!
   - paper collection (relate to machine learning)
   - https://github.com/2juhyeon/jobs/blob/main/papers.md
 
-## 2. methodology
+## 2. methodology & theory
+  - what property we prediction? (band gap)
   - what kind of method we uses? (studing in papers)
   - what property is given us good prediction? (studing in papers)
-  - what property we prediction? (band gap)
+
+  - PRML (https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+  - reads1 (https://drive.google.com/file/d/1lXojqQvWlVCe7XNIGNyNvBDENSeyeB3P/view)
 
 ## 3. environment
   - env settings (linux, conda, etc..)
   - https://github.com/2juhyeon/jobs/blob/main/environment.md
+  
 ## 4. data sets
   1. materials projects
   2. hand made
