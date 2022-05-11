@@ -40,4 +40,4 @@ Compare many material's properties, then we choose a goal. that is **band gap**!
 
 ## 5. Examples(thanks to K.M. Kim)
   - Collect useful examples and revise some part
-  - https://github.com/2juhyeon/jobs/blob/main/Examples/Examples.md
+  - https://github.com/2juhyeon/jobs/blob/main/Examples/readme.md
