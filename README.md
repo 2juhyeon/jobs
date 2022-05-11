@@ -38,4 +38,6 @@ compare many material's properties, then we choose a goal. that is **band gap**!
   1. materials projects
   2. hand made
 
-
+## 5. examples(thanks to K.M. Kim)
+  - collect useful examples and revise some part
+  - https://github.com/2juhyeon/jobs/blob/main/Examples/Examples.md
