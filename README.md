@@ -39,7 +39,7 @@ Compare many material's properties, then we choose a goal. that is **band gap**!
   2. hand made
 
 ## 5. Pre-Processing
-  - https://github.com/2juhyeon/jobs/blob/main/environment.md
+  - https://github.com/2juhyeon/jobs/tree/main/Pre-Processing
 ## 6. Examples(thanks to K.M. Kim)
   - Collect useful examples and revise some part
   - https://github.com/2juhyeon/jobs/blob/main/Examples/readme.md
