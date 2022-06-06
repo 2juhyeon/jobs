@@ -1,12 +1,4 @@
 # Jobs
-
-## Flow chart and Goals
-
-![1 capstone](https://user-images.githubusercontent.com/64780986/167266161-166e5212-bd53-4307-b3ef-8b16bbe8c319.PNG)
-![2 capstone](https://user-images.githubusercontent.com/64780986/167266162-dc59d176-a8c7-467e-906c-3bef145db682.PNG)
-![3 capstone](https://user-images.githubusercontent.com/64780986/167266170-a8644912-ed00-48b4-b341-fe994a5788e5.PNG)
-![4 capstone](https://user-images.githubusercontent.com/64780986/167293520-6fecb57e-f761-47cf-9b5d-c1ec34462819.PNG)
-
 Compare many material's properties, then we choose a goal. that is **band gap**!
 
 ## Band gap
@@ -17,6 +9,10 @@ Compare many material's properties, then we choose a goal. that is **band gap**!
     - Hybrid functional, GW like calculation gives a good Band Gap but this cost(time, CPU usage, etc..) is very expensive.
   - Using machine learning?
     - If using machine learning is given good prediction, we can reduce costs.
+
+## Flow chart and Goals
+  - https://github.com/2juhyeon/jobs/blob/main/PPT.md
+
     
 ## 1. Papers
   - Paper collection (relate to machine learning)
