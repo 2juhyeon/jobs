@@ -1,10 +1,14 @@
 # Jobs
 Compare many material's properties, then we choose a goal. that is **band gap**!
+so our job title is "**band estimation**".
 
 ## Band gap
-  - The bandgap is the most important thing in today's materials.
-  - This property is coming from the quantum mechanical phenomena.
+  - The bandgap is the most important property in today's materials.
+  - This property is coming from the quantum mechanical phenomena. so is hard work to estimate.
 ### how can estimate?
+  - experimentally
+    - PL(photoluminescence spectroscopy)
+    - etc..
   - Using DFT calculation
     - Hybrid functional, GW like calculation gives a good Band Gap but this cost(time, CPU usage, etc..) is very expensive.
   - Using machine learning?
