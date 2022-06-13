@@ -36,5 +36,5 @@ so our job title is "**band estimation**".
   2. hand made
 
 ## 5. [Pre-Processing](https://github.com/2juhyeon/jobs/tree/main/Pre-Processing)
-## 6. [Examples(thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples.md)
+## 6. [Examples(thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
   - Collect useful examples and revise some part
