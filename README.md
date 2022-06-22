@@ -7,8 +7,6 @@ so our job title is "**band estimation**".
   - This property is coming from the quantum mechanical phenomena. so is hard work to estimate.
 ### how can estimate?
   - experimentally
-    - PL(photoluminescence spectroscopy)
-    - etc..
   - Using DFT calculation
     - Hybrid functional, GW like calculation gives a good Band Gap but this cost(time, CPU usage, etc..) is very expensive.
   - Using machine learning?
