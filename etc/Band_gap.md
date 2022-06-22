@@ -16,3 +16,4 @@ reference - (https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Ch
   - Related component
     1. photon radiation
     2.
+![direct indirect](https://user-images.githubusercontent.com/64780986/174976971-2e2427a7-f968-4852-b6c4-00d371da7368.jpg)
