@@ -31,7 +31,7 @@ so our job title is "**band estimation**".
   
 ## 4. Data sets
   1. [materials projects](https://materialsproject.org/)
-  2. [QQMD](https://oqmd.org/)
+  2. [OQMD](https://oqmd.org/)
   3. [COD](http://www.crystallography.net/cod/)
 
 ## 5. [Pre-Processing](https://github.com/2juhyeon/jobs/tree/main/Pre-Processing)
