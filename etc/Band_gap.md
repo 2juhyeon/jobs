@@ -8,7 +8,7 @@
 ## What is **Band gap**?
   - energy gap is seems like HOMO-LUMO gap. this comming from bonding state and anti-bonding state. this bonding and anti-bonding make energy difference in two states, HOMO(Highest Occupied Molecular Orbital) and LUMO(Lowest Unoccupied Molecular Orbital).
 
-[picture] (https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_%28LibreTexts%29/09%3A_Chemical_Bonding_in_Diatomic_Molecules/9.05%3A_Bonding_and_Antibonding_Orbitals)
+[picture](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_%28LibreTexts%29/09%3A_Chemical_Bonding_in_Diatomic_Molecules/9.05%3A_Bonding_and_Antibonding_Orbitals)
 
 
 ## So we know Band and Band gap. So what?
