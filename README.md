@@ -12,10 +12,10 @@ so our job title is "**band estimation**".
   - Using machine learning?
     - If using machine learning is given good prediction, we can reduce costs.
 
-## [Flow chart and Goals](https://github.com/2juhyeon/jobs/blob/main/PPT.md)
+## [Flow chart and Goals](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
 
     
-## 1. [Papers](https://github.com/2juhyeon/jobs/blob/main/papers.md)
+## 1. [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
   - Paper collection (relate to machine learning)
 
 ## 2. Methodology & theory
@@ -26,7 +26,7 @@ so our job title is "**band estimation**".
   - [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
   - [Reads1](http://events.kias.re.kr/h/physAI/)
 
-## 3. [Environment](https://github.com/2juhyeon/jobs/blob/main/environment.md)
+## 3. [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
   - env settings (linux, conda, etc..)
   
 ## 4. Data sets
