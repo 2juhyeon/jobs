@@ -22,4 +22,6 @@
     ![direct indirect](https://user-images.githubusercontent.com/64780986/174976971-2e2427a7-f968-4852-b6c4-00d371da7368.jpg)
 
     2. Semi-conductor
-
+      - Band gap (0.6 ~ 1.5 (eV))
+      - Every modern engineering!
+    
