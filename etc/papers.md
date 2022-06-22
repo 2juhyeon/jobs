@@ -24,3 +24,7 @@
      - G. Pilania, A. Mannodi-Kanakkithodi, B. P. Uberuaga, R. Ramprasad, J. E. Gubernatis & T. Lookman, Scientific Reports volume 6, Article number: 19375 (2016)
   9. [Informatics-aided bandgap engineering for solar materials](https://www.researchgate.net/profile/Madhu-Menon/publication/259518289_Informatics-aided_bandgap_engineering_for_solar_materials/links/5ae97d37aca2725dabb55e83/Informatics-aided-bandgap-engineering-for-solar-materials.pdf?origin=publication_detail)
      - ParthaDey et al., Computational Materials Science Volume 83, Pages 185-195 (2014)
+
+
+## common things
+  - in Announcement.
