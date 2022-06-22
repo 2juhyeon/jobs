@@ -15,12 +15,11 @@
   - Related component
     1. photon radiation
 
-
     ![energy](https://user-images.githubusercontent.com/64780986/175063174-e73e8007-5300-40a7-961e-19373ff32e37.PNG)
     
     [SPECTRUM](https://www.researchgate.net/profile/Zoltan-Szantoi/publication/258241350/figure/fig2/AS:614122790072322@1523429691663/Diagram-of-the-lights-electromagnetic-spectrum-showing-the-different-wavelengths-of.png)
+    
+    ![direct indirect](https://user-images.githubusercontent.com/64780986/174976971-2e2427a7-f968-4852-b6c4-00d371da7368.jpg)
 
+    2. Semi-conductor
 
-
-    2.
-![direct indirect](https://user-images.githubusercontent.com/64780986/174976971-2e2427a7-f968-4852-b6c4-00d371da7368.jpg)
