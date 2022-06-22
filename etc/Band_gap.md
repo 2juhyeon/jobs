@@ -18,8 +18,7 @@
 
     ![energy](https://user-images.githubusercontent.com/64780986/175063174-e73e8007-5300-40a7-961e-19373ff32e37.PNG)
     
-    
-    reference(https://www.researchgate.net/publication/258241350_REVIEW_OF_THE_USE_OF_REMOTELY-SENSED_DATA_FOR_MONITORING_BIODIVERSITY_CHANGE_AND_TRACKING_PROGRESS_TOWARDS_THE_AICHI_BIODIVERSITY_TARGETS)
+    [SPECTRUM](https://www.researchgate.net/profile/Zoltan-Szantoi/publication/258241350/figure/fig2/AS:614122790072322@1523429691663/Diagram-of-the-lights-electromagnetic-spectrum-showing-the-different-wavelengths-of.png)
 
 
 
