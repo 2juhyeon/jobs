@@ -1,6 +1,6 @@
 # Jobs
-Compare many material's properties, then we choose a goal. that is **band gap**!
-so our job title is "**band estimation**".
+Compare many material's properties, then we choose a goal. that is **Band gap**!
+so our job title is "**Band gap estimation**".
 
 ## [Band gap](https://github.com/2juhyeon/jobs/blob/main/etc/Band_gap.md)
   - The bandgap is the most important property in today's materials.
