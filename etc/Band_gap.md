@@ -15,9 +15,15 @@ reference - (https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Ch
 ## So we know Band and Band gap. So what?
   - Related component
     1. photon radiation
+
+
     ![energy](https://user-images.githubusercontent.com/64780986/175063174-e73e8007-5300-40a7-961e-19373ff32e37.PNG)
+    
+    
     ![spectrum](https://user-images.githubusercontent.com/64780986/175063612-5e43f2c8-299e-449a-b029-56c16b3b211d.png)
     reference(https://www.researchgate.net/publication/258241350_REVIEW_OF_THE_USE_OF_REMOTELY-SENSED_DATA_FOR_MONITORING_BIODIVERSITY_CHANGE_AND_TRACKING_PROGRESS_TOWARDS_THE_AICHI_BIODIVERSITY_TARGETS)
+
+
 
     2.
 ![direct indirect](https://user-images.githubusercontent.com/64780986/174976971-2e2427a7-f968-4852-b6c4-00d371da7368.jpg)
