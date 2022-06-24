@@ -12,7 +12,7 @@ so our job title is "**Band gap estimation**".
   - Using machine learning?
     - If using machine learning is given good prediction, we can reduce costs.
 
-## [oncept drawing](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
+## [Concept drawing](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
 
     
 ## 1. [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
