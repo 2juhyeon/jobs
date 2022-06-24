@@ -17,29 +17,27 @@
 ## [Concept drawing](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
 
     
-## 1. [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
-  - Paper collection (relate to machine learning)
-
-## 2. Methodology & theory
-  - What property we prediction? (band gap)
-  - What kind of method we uses? (studing in papers)
-  - What property is given us good prediction? (studing in papers)
+## 1. Methodology & theory
+  1. What property we prediction? (band gap)
+  2. What kind of method we uses? (studing in papers)
+  3. What property is given us good prediction? (studing in papers)
 
   - [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
   - [Reads1](http://events.kias.re.kr/h/physAI/)
+  - [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
 
-## 3. [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
+## 2. [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
   - env settings (linux, conda, etc..)
   
-## 4. Current works
-### Data sets
+## 3. Current works
+### 1. Data set acquirement 
   1. [materials projects](https://materialsproject.org/)
   2. [OQMD](https://oqmd.org/)
   3. [COD](http://www.crystallography.net/cod/)
 
-### [Pre-Processing] for feature Vector(https://github.com/2juhyeon/jobs/tree/main/Pre-Processing)
+### 2. [Pre-Processing](https://github.com/2juhyeon/jobs/tree/main/Pre-Processing) for feature Vector
 
-### [Examples (thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
+### 3. [Codes (thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
   - Collect useful examples and revise some part
 
-## 5. next process
+## 4. Next Work
