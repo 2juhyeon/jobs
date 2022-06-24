@@ -22,8 +22,9 @@
   2. What kind of method we uses? (studing in papers)
   3. What property is given us good prediction? (studing in papers)
 
-  - [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-  - [Reads1](http://events.kias.re.kr/h/physAI/)
+  - reads
+    - [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+    - [Reads1](http://events.kias.re.kr/h/physAI/)
   - [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
 
   - [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
