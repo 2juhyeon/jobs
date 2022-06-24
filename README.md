@@ -1,8 +1,10 @@
 # Project
-Compare many material's properties, then we choose a goal. that is **Band gap**!
-so our job title is "**Band gap estimation**".
+## Purpose
+  (Band gap estimate)
+  Compare many material's properties, then we choose a goal. that is **Band gap**!
+  so our job title is "**Band gap estimation**".
 
-## [Band gap](https://github.com/2juhyeon/jobs/blob/main/etc/Band_gap.md)
+## what is [Band gap](https://github.com/2juhyeon/jobs/blob/main/etc/Band_gap.md)
   - The bandgap is the most important property in today's materials.
   - This property is coming from the quantum mechanical phenomena. so is hard work to estimate.
 ### how can estimate?
