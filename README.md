@@ -26,10 +26,10 @@
   - [Reads1](http://events.kias.re.kr/h/physAI/)
   - [Papers](https://github.com/2juhyeon/jobs/blob/main/etc/papers.md)
 
-## 2. [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
-  - env settings (linux, conda, etc..)
+  - [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
+    - env settings (linux, conda, etc..)
   
-## 3. Current works
+## 2. Current works
 ### 1. Data set acquirement 
   1. [materials projects](https://materialsproject.org/)
   2. [OQMD](https://oqmd.org/)
@@ -40,4 +40,4 @@
 ### 3. [Codes (thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
   - Collect useful examples and revise some part
 
-## 4. Next Work
+## 3. Next Work
