@@ -15,7 +15,7 @@
   - If using machine learning is given good prediction, we can reduce costs.
 
 ## [Concept drawing](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
-
+![2 capstone](https://user-images.githubusercontent.com/64780986/167266162-dc59d176-a8c7-467e-906c-3bef145db682.PNG)
     
 ## 1. Methodology & theory
   1. What property we prediction? (band gap)
