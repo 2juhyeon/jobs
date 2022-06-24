@@ -1,4 +1,4 @@
-# Jobs
+# Project
 Compare many material's properties, then we choose a goal. that is **Band gap**!
 so our job title is "**Band gap estimation**".
 
