@@ -31,11 +31,15 @@
 ## 3. [Environment](https://github.com/2juhyeon/jobs/blob/main/etc/environment.md)
   - env settings (linux, conda, etc..)
   
-## 4. Data sets
+## 4. Current works
+### Data sets
   1. [materials projects](https://materialsproject.org/)
   2. [OQMD](https://oqmd.org/)
   3. [COD](http://www.crystallography.net/cod/)
 
-## 5. [Pre-Processing](https://github.com/2juhyeon/jobs/tree/main/Pre-Processing)
-## 6. [Examples(thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
+### [Pre-Processing] for feature Vector(https://github.com/2juhyeon/jobs/tree/main/Pre-Processing)
+
+### [Examples (thanks to K.M. Kim)](https://github.com/2juhyeon/jobs/tree/main/Examples)
   - Collect useful examples and revise some part
+
+## 5. next process
