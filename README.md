@@ -7,7 +7,7 @@
   - experimentally
   - Using DFT calculation
     - Hybrid functional, GW like calculation gives a good Band Gap but this cost(time, CPU usage, etc..) is very expensive.
-### Using machine learning?
+## Using machine learning?
   - If using machine learning is given good prediction, we can reduce costs.
 
 ## [Concept drawing](https://github.com/2juhyeon/jobs/blob/main/etc/PPT.md)
